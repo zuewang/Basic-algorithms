@@ -1,9 +1,3 @@
-/*
- * bst.cpp
- *
- *  Created on: 2015Äê11ÔÂ8ÈÕ
- *      Author: ThinkPad
- */
 #include <iostream>
 #include <fstream>
 #include <sstream>
