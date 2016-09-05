@@ -1,9 +1,3 @@
-/*
- * 3711_1.cpp
- *
- *  Created on: 2015Äê9ÔÂ27ÈÕ
- *      Author: ThinkPad
- */
 #include <iostream>
 #include <stdio.h>
 #include <string>
