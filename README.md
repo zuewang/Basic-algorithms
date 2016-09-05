@@ -1,7 +1,7 @@
 # Basic-algorithms
-sort.cpp:
-bubble sort, insertion sort, quick sort
-code.cpp:
-huffman coding
-bst.cpp:
-binary search tree
+sort.cpp:\n
+bubble sort, insertion sort, quick sort\n
+code.cpp:\n
+huffman coding\n
+bst.cpp:\n
+binary search tree\n
